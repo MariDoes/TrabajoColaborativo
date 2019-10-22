@@ -7,6 +7,8 @@
 * ver peliculas
 * dormir
 * jugar
+* escuchar música
+
 
 ## Cita favorita
 > Si puedes imaginarlo, puedes programarlo. 
