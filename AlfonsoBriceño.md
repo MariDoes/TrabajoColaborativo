@@ -7,6 +7,7 @@
 * Escuchar música
 * Videojuegos
 * Dormir
+* Ir al cine
 
 ## Cita favorita
 
